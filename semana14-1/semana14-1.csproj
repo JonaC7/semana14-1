@@ -67,23 +67,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="contactenos.aspx" />
+    <Content Include="Contactenos.html" />
     <Content Include="css\styles.css" />
     <Content Include="default.aspx" />
+    <Content Include="Equipo.html" />
+    <Content Include="img\anciedad.jpg" />
     <Content Include="img\favicon.ico" />
     <Content Include="img\imagen prueva.jpg" />
     <Content Include="informacion.html" />
     <Content Include="js\functions.js" />
+    <Content Include="Pag5.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="contactenos.aspx.cs">
-      <DependentUpon>contactenos.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="contactenos.aspx.designer.cs">
-      <DependentUpon>contactenos.aspx</DependentUpon>
-    </Compile>
     <Compile Include="default.aspx.cs">
       <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
